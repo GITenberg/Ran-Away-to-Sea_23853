@@ -1,0 +1,36 @@
+_repo: Ran-Away-to-Sea_23853
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Ships -- Juvenile fiction'
+- !lcsh 'Slave trade -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Africa -- Juvenile fiction'
+- !lcc 'PZ'
+title: Ran Away to Sea
+url: http://www.gutenberg.org/ebooks/23853
